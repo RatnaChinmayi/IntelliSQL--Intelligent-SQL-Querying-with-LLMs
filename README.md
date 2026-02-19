@@ -1,5 +1,7 @@
 # 📌 IntelliSQL: Intelligent SQL Querying with LLMs
 
+Video Demo Link:https://drive.google.com/file/d/1wD-kD4DXXjTV_Ytv2MxkIFgiD7H363TI/view?usp=drive_link
+
 ## 🔹 Overview
 **IntelliSQL** is an AI-powered SQL assistant that allows users to interact with databases using natural language. It uses Google Gemini LLM to convert plain English queries into SQL statements and executes them on a SQLite database.
 This system simplifies database querying and supports intelligent data exploration.
